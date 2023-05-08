@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "My First Post"
-date = "2019-03-09"
+date = "2023-05-07"
 description = "The first post on my new personal site!"
 categories = [
     "Personal",
