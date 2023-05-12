@@ -15,7 +15,7 @@ image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
 
 Hey all!
 
-This is my very first post on my new personal site! 
+This is my very first post on my new personal site!
 
 This is built using the Stack Hugo Theme, hosted on AWS Amplify and will hopefully serve as a base for my brain ramblings!
 
@@ -24,7 +24,9 @@ If you'd like to follow my brain splurts I'll be attempting to post them here bu
 You can also find my current freelance work over at https://ideasquared.co.uk
 
 {{< css.inline >}}
+
 <style>
 .canon { background: white; width: 100%; height: auto; }
 </style>
+
 {{< /css.inline >}}
