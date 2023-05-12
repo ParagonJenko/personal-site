@@ -22,11 +22,3 @@ This is built using the Stack Hugo Theme, hosted on AWS Amplify and will hopeful
 If you'd like to follow my brain splurts I'll be attempting to post them here but you can also find me on Twitter, YouTube, LinkedIn, Instagram and whatever other social media I find my way into!
 
 You can also find my current freelance work over at https://ideasquared.co.uk
-
-{{< css.inline >}}
-
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-
-{{< /css.inline >}}
