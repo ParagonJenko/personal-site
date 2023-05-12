@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Alex Jenkinson"
 title = "My First Post"
 date = "2023-05-07"
 description = "The first post on my new personal site!"
