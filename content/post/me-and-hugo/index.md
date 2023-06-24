@@ -7,7 +7,7 @@ hidden: false
 draft: true
 ---
 
-# Why Hugo brought me back into engineering.
+# Why Hugo gave me the spark of engineering again.
 
 - COVID ruined my education experience.
 - Because of my ordinary degree, I couldn't get on a graduate scheme.
@@ -24,3 +24,5 @@ draft: true
 - Want a way back in on techy projects, specifically web related.
 - I tried Gatsby, I just never got onto into it.
 - I found Hugo on a whim, intinced by Go as that's what is predominately used on the backend of work.
+
+-
