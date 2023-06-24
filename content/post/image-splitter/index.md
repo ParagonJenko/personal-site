@@ -29,4 +29,4 @@ Then I decided that it was time to get this project done and I refactored the co
 
 It was also my first Javascript project ever really outside of practicing and I know I could definitely write it better with more focus on potentially a library for others to use!
 
-You can check it out on my [GitHub](https://github.com/ParagonJenko/slackbot-multiline-emoji-js)
+You can check it out on my [GitHub](https://github.com/ParagonJenko/slackbot-multiline-emoji-js) or the [website URL](https://alexjenkinson.com/bigmoji)
