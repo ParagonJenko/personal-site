@@ -26,8 +26,7 @@
             srcdir = "exampleSite"
 
 [[redirects]]
-  from = "/bigmoji"
+  from = "alexjenkinson.com/bigmoji"
   to = "https://bigmoji.alexjenkinson.com/"
   status = 301
-  force = false
-  conditions = {Language = ["en"], Country = ["US"]}
+  force = true
