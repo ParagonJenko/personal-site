@@ -24,3 +24,9 @@
             debug = true
             # Relative path to source directory in case you use Hugo's "--s" option
             srcdir = "exampleSite"
+
+[[redirects]]
+ from = "/bigmoji"
+ to = "https://bigmoji.alexjenkinson.com/"
+ status = 301
+ force = true
