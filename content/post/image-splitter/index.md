@@ -30,3 +30,11 @@ Then I decided that it was time to get this project done and I refactored the co
 It was also my first Javascript project ever really outside of practicing and I know I could definitely write it better with more focus on potentially a library for others to use!
 
 You can check it out on my [GitHub](https://github.com/ParagonJenko/slackbot-multiline-emoji-js) or the [website URL](https://alexjenkinson.com/bigmoji)
+
+## Part 2 - The Giffening
+
+While using the tool my Team Manager actually asked if we could do moving images - which I assumed correctly that it was some .gif functionality they were looking for. After a little bit of faffing from my end because I struggled to re-factor this.
+
+## The Conclusion
+
+I don't think there is much more I want to do - other than completely refactor this but I've lost interest in doing that!
